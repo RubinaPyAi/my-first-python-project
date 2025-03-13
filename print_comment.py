@@ -1,2 +1,1 @@
-
-print("I am learning how to merge branches in git")
+print("I am learning how to merges brances in git")
